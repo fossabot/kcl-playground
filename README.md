@@ -1,9 +1,10 @@
 # KCL Playground
 
-- `go get kcl-lang.io/kcl-playground`
-- `kcl-playground` or `go run main.go`
+![kcl-playground](screenshot.jpg)
 
-![](screenshot.jpg)
+## Developing
+
++ `go run main.go`
 
 ## License
 
